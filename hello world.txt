@@ -9,3 +9,4 @@ print("Hello everybody")
 print("Hello world")
 >>>>>>> master
 print("Hello everybody")
+print("Hello everybody")
